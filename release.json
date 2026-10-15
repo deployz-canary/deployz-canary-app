@@ -1,5 +1,5 @@
 {
-  "version": "v3-bad-health",
-  "commit": "0b864d9d205a939d477f975a8d3a5a14490e6c58",
-  "healthMode": "broken"
+  "version": "v4",
+  "commit": "pending",
+  "healthMode": "ok"
 }
